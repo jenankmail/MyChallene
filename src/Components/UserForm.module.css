@@ -1,0 +1,15 @@
+.formstyle{
+    background-color: black;
+    color: rgb(245, 105, 70);
+    width: 50%;
+   text-align: left;
+   border-radius: 20px;
+   padding-left: 14px;
+}
+.contianer{
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}

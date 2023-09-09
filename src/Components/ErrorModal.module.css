@@ -1,0 +1,25 @@
+.erorr{
+    width: 300px; 
+    max-height: 300px; 
+    margin: 10px; 
+    border: 1px solid hsl(0, 0%, 80%);
+    background-color: #ffffff;
+    padding: 100px;
+   
+  }
+  
+ .error p{
+    background-color: white;
+    color: red;
+ }
+ .error button {
+    
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  
